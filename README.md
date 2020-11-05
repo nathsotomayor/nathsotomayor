@@ -6,10 +6,6 @@
 
 ## A little more about me
 
-I'm Nathaly Sotomayor Ampudia
-
-Full Stack Software Developer 👩🏻‍💻
-
 </br>
 
 ```ruby
