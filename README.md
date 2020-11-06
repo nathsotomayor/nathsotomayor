@@ -1,10 +1,12 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  
+![greetins_original](https://user-images.githubusercontent.com/28455356/98311428-6503b380-1f9d-11eb-9d68-72a96cfbfcca.gif)
+  
 </div>
 
 </br>
 
-## A little more about me
+## 👩🏻‍💻 A little more about me 🇨🇴
 
 </br>
 
@@ -44,7 +46,7 @@ const nath = {
 </br>
 </br>
 
-## Connect with me  
+## 🙌🏼 Connect with me  
 </br>
 <a href="https://github.com/nathsotomayor" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -67,7 +69,7 @@ const nath = {
 </br>
 </br>
 
-## Some inspiration
+## 🍃 Some inspiration
 
 </br>
 
