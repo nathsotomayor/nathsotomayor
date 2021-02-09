@@ -13,7 +13,7 @@
 ```ruby
 const nath = {
   pronouns: "She" | "Her",
-  code: [C, Python, Ruby, Javascript, HTML, CSS, Bash],
+  code: [C, Python, Javascript, HTML, CSS, Bash],
   
   💬 askMeAbout: [Web Dev, Tech, Healthy Life-Style],
   technologies: {
@@ -33,8 +33,8 @@ const nath = {
   tools: [Git, GitHub, Swagger, Puppet],
   architecture: [Microservices, MVC, Single Page Applications],
  
-  challenge: I am doing the 30DaysOfCode challenge focused on C programming & algorithms
-  🌱 currentlyLearning: English (improving), Guitar
+  challenge: Improving my English
+  🌱 currentlyLearning: Ruby and Ruby on Rails, Guitar
 }
 ```
 
