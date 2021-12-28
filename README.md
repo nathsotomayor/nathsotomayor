@@ -15,7 +15,7 @@ const nath = {
   pronouns: "She" | "Her",
   code: [Ruby, C, Python, Javascript, HTML, CSS, Bash],
   
-  💬 askMeAbout: [Web Dev, Tech, Healthy Life-Style],
+  💬 askMeAbout: [Web-Development, Tech, Healthy-Life-Style, Coffee ☕],
   technologies: {
         frontEnd: {
             js: [Angular],
@@ -23,7 +23,7 @@ const nath = {
             python: [Jinja],
         },
         backEnd: {
-            ruby: [Ruby on Rails, RSpec]
+            ruby: [Ruby-On-Rails, RSpec],
             js: [Node, JQuery, AJAX],
             python: [Flask],
         },
@@ -32,10 +32,10 @@ const nath = {
   },
   
   tools: [Git, GitHub, Swagger, Puppet],
-  architecture: [Microservices, MVC, Single Page Applications],
+  architecture: [Microservices, MVC, Single-Page-Applications],
  
-  challenge: Improving my English
-  🌱 currentlyLearning: To play guitar
+  challenge: Improving-My-English
+  🌱 currentlyLearning: To-Play-Guitar
 }
 ```
 
