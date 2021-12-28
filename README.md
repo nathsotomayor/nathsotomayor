@@ -13,7 +13,7 @@
 ```ruby
 const nath = {
   pronouns: "She" | "Her",
-  code: [C, Python, Javascript, HTML, CSS, Bash],
+  code: [Ruby, C, Python, Javascript, HTML, CSS, Bash],
   
   💬 askMeAbout: [Web Dev, Tech, Healthy Life-Style],
   technologies: {
@@ -23,18 +23,19 @@ const nath = {
             python: [Jinja],
         },
         backEnd: {
+            ruby: [Ruby on Rails, RSpec]
             js: [Node, JQuery, AJAX],
             python: [Flask],
         },
-        devOps: [AWS, Docker🐳, Nginx, Heroku, Apache, Firebase],
-        databases: [MySql, Sqlite],
+        devOps: [AWS, Docker🐳, Nginx, Heroku, Apache, Firebase, Sidekiq, Redis],
+        databases: [MySql, PostgreSQL, Sqlite],
   },
   
   tools: [Git, GitHub, Swagger, Puppet],
   architecture: [Microservices, MVC, Single Page Applications],
  
   challenge: Improving my English
-  🌱 currentlyLearning: Ruby and Ruby on Rails, Guitar
+  🌱 currentlyLearning: To play guitar
 }
 ```
 
